@@ -1,0 +1,4 @@
+# Git ignore rules
+node_modules/
+dist/
+.env.local
